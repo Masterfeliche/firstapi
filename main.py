@@ -17,7 +17,8 @@ async def about_me():
         "name": "Feliche",
         "age": 20,
         "Hobby": "Sports",
-        "Team": "Real Madrid"
+        "Team": "Real Madrid",
+        "contacts": ["feliche@gmail.com", "0712748364"]
     }
 
 
